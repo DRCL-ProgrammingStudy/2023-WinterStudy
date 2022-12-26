@@ -6,7 +6,7 @@
 - 진행일자는 1월 2일 첫 스터디 모임에 논의 후 결정
 
 - 언어: Python / C++
-- 스터디 참고 자료: 백준(https://www.acmicpc.net/), [프로그래머스](https://programmers.co.kr/)
+- 스터디 참고 자료: [백준](https://www.acmicpc.net/)
 
 ## 진행 방식
 추후 논의
