@@ -1,16 +1,13 @@
 import sys
 N = int(sys.stdin.readline())
-
-
 stack = []
-
 for _ in range(N) :
     data = sys.stdin.readline().split()
     order =  data[0]
     if order == 'push' :
         value = data[1]
         stack.append(value)
-    
+
     elif order== 'pop' :
         if len(stack)==0 :
             print(-1)
