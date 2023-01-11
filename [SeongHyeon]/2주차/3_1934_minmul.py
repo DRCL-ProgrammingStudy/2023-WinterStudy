@@ -1,7 +1,6 @@
 import sys
 
 N = int(sys.stdin.readline())
-ans = []
 
 def Euclidean(a, b):
     while b != 0:
